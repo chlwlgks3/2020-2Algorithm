@@ -1,7 +1,7 @@
 # 2020-2Algorithm  
 2020-2 장길진교수님의 알고리즘 강의 정리한것입니다.  
 
-## Hw1  
+## [Hw1](https://github.com/chlwlgks3/2020-2Algorithm/tree/main/Hw1)   
 
 ### hw1-1.c  
 (c언어복습)학번 이름 학과 출력하는 C프로그램
@@ -14,7 +14,7 @@
 ![image](https://user-images.githubusercontent.com/64358334/102443136-611d8380-4069-11eb-99e7-da1a5024af65.png)
 텍스트 파일을 command line arguments로 입력받은후 최소.최대.평균.분산을 출력해주는 프로그램  
 
-## Hw2  
+## [Hw2](https://github.com/chlwlgks3/2020-2Algorithm/tree/main/hw2)    
 
 ### hw2-1.c  
 ![image](https://user-images.githubusercontent.com/64358334/102443324-c5d8de00-4069-11eb-9cc8-d3e2234a2a84.png)  
@@ -26,7 +26,7 @@ txt파일에서 단어들을 읽어들인후 insertion sort, selection sort, bub
 hw2-1.c는 고정된 크기의 2차원 배열을 사용하기 때문에 문자열을 저장하기위해 메모리의 낭비가 심하다. 그래서 단어의 숫자가 많아지면 실행이 불가능함. 이 문제를 해결하기위해 동적 메모리할당방법을 이용하여 메모리사용량을 최소화하는 프로그램.  
 
 
-## Hw3  
+## [Hw3](https://github.com/chlwlgks3/2020-2Algorithm/tree/main/Hw3)    
 
 ### hw3-1.c  
 ![image](https://user-images.githubusercontent.com/64358334/102443490-37189100-406a-11eb-8d09-00f532efde5e.png)  
@@ -38,7 +38,7 @@ hw2-1.c는 고정된 크기의 2차원 배열을 사용하기 때문에 문자�
 고정된 길이가 아닌 가변길이의 무작위로 생성된 단어들을 mertge sort와 quick sort이용하여 정렬하는 
 
 
-## Hw4  
+## [Hw4](https://github.com/chlwlgks3/2020-2Algorithm/tree/main/Hw4)    
 
 ### hw4-1.c  
 ![image](https://user-images.githubusercontent.com/64358334/102443659-9e364580-406a-11eb-942a-ccb3a8180655.png)  
@@ -51,7 +51,7 @@ hash table에서 chaining을 이용하여 단어들을 저장하는 프로그램
 ![image](https://user-images.githubusercontent.com/64358334/102443910-346a6b80-406b-11eb-875c-7ab78e554759.png)
 
 
-## Hw5  
+## [Hw5](https://github.com/chlwlgks3/2020-2Algorithm/tree/main/Hw5)    
 
 ###  hw5.c  
 LCS(longest common subsequence) 알고리즘을 구현한 프로그램. 그와 더불어 LCS circular shift도 구현함.
