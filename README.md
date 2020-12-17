@@ -26,3 +26,15 @@ txt파일에서 단어들을 읽어들인후 insertion sort, selection sort, bub
 hw2-1.c는 고정된 크기의 2차원 배열을 사용하기 때문에 문자열을 저장하기위해 메모리의 낭비가 심하다. 그래서 단어의 숫자가 많아지면 실행이 불가능함. 이 문제를 해결하기위해 동적 메모리할당방법을 이용하여 메모리사용량을 최소화하는 프로그램.  
 
 
+## Hw3  
+
+### hw3-1.c  
+![image](https://user-images.githubusercontent.com/64358334/102443490-37189100-406a-11eb-8d09-00f532efde5e.png)  
+![image](https://user-images.githubusercontent.com/64358334/102443506-413a8f80-406a-11eb-9b95-3a0cc6877e1c.png)  
+
+고정된길이의 무작위로 생성된 단어들이 .을 이용하여 구분되어 저장되있다. merge sort와 quick sort이용하여 정렬하여 output파일에 출력하는 프로그램.
+
+### hw3-2.c  
+고정된 길이가 아닌 가변길이의 무작위로 생성된 단어들을 mertge sort와 quick sort이용하여 정렬하는 
+
+
